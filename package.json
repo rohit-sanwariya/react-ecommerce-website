@@ -1,0 +1,22 @@
+{
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohit-sanwariya/react-ecommerce-website.git"
+  },
+  "author": "Rohit Sanwariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohit-sanwariya/react-ecommerce-website/issues"
+  },
+  "homepage": "https://github.com/rohit-sanwariya/react-ecommerce-website#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
